@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Constraint Layout Workshop</string>
+    <string name="gone_margins">Gone Margins</string>
+    <string name="textView1">TextView 1</string>
+    <string name="textView2">TextView 2</string>
+    <string name="toggle">Toggle</string>
+    <string name="gone_margins_description">textView1 has a 80dp margin to the left, and textView2 has a 20dp margin
+        from textView1. Try to toggle the TextView 1 visibility from VISIBLE to GONE with the button below and looks how
+        the goneMarginLeft/goneMarginStart is applied.
+    </string>
 </resources>
